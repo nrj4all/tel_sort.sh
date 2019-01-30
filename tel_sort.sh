@@ -131,7 +131,7 @@ function erzeugeAusgabe {
 #############################
 
 # Matrikelnummer festlegen
-matrNr="<Matrikel#: 655068> "
+matrNr="<Matrikel#: XXXXXX> "
 		
 # Variable für Ausgabe deklarieren
 ausgabe=""
